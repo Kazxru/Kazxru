@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Urijah!</h1>
 <h3 align="center">An aspiring Information Security Analyst from the United States</h3>
 
-- 🔭 I’m currently working on **a simulated MiTM presentation**
+- 🔭 I’m currently working on **a simulated MITM presentation**
 
 - 🌱 I’m currently learning **General Security Concepts, and Security Architecture**
 
